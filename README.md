@@ -1,3 +1,4 @@
 # GitDemo
 A git and github demo
-Author is Mayurika
+<br>
+Author is Mayurika (MCET)
